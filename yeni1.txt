@@ -1,1 +1,3 @@
-yeni1 deneme yapiliyor ilk commit
+new 1 trial is being done first commit 
+
+new 1 trial is being done  second commit 
